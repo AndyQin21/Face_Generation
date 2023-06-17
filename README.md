@@ -1,5 +1,5 @@
 # Face_Generation
-This is the second last project in the Deep learning Nano Degree
+
 
 
 
